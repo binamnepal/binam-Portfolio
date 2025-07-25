@@ -3,8 +3,8 @@ import About from './components/About/About';
 
 import Contact from './components/Contact/Contact';
 import Counter from './components/Counter/Counter';
-import Navbar from './components/navbar/navbar';
  import { Route, Routes } from 'react-router-dom'
+ import Navbar from './components/navbar/Navbar';
  import Project from './components/Project/Project'
  import Home from './components/Home/Home'
 import Login from './components/Login/Login';
