@@ -4,7 +4,7 @@ import BinamImage from '../../assets/mitsuri.jpg';
 const Home = () => {
     return (
         <div>
-            <selection className="home">
+            <section className="home">
                 <div className="home-content">
                     <h1> HI, I am Binam Nepal </h1>
                     <h2> IT Student</h2>
@@ -21,7 +21,7 @@ const Home = () => {
                     
                 </div>
 
-            </selection>
+            </section>
         </div>
     );
 };

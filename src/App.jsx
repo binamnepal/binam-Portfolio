@@ -1,7 +1,7 @@
 import './App.css';
 import About from './components/About/About';
 
-import Contact from './components/Contact/contact';
+import Contact from './components/Contact/Contact';
 import Counter from './components/Counter/Counter';
 import Navbar from './components/navbar/navbar';
  import { Route, Routes } from 'react-router-dom'
