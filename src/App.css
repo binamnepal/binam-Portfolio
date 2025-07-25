@@ -1,0 +1,22 @@
+.container {
+  border: 2px solid yellow;
+margin: 20px 10px 5px 10px;
+  padding: 20px 30 px 20px 30px;
+  background-color: lightgreen;
+}
+.container1 {
+  border :solid blue;
+  margin: 20px 10px 5px ;
+  background-color: lightblue;
+}
+#btn{
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: lightgray;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}

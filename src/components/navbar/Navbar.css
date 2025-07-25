@@ -1,0 +1,38 @@
+.navBar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(85,161,236);
+    padding: 10px 20px 30px 20px;
+    color: black;
+    font-family: 'arial';
+    
+}
+
+.navBar-list {
+    display: flex;
+    gap: 10px; 
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+
+
+.navBar-list a{
+    text-decoration: none;
+    color: white;
+}
+.navBar button{
+     border: none;
+     padding: 5px 10px;
+     background :red;
+     border-radius: 5px;
+     font-weight: 600;
+     font-size: 12px;
+    
+}
+
+.navBar button:hover{
+    background-color: yellow;
+}
